@@ -11,6 +11,7 @@
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.19.2",
     "chroma-js": "^2.1.0",
+    "emoji-mart": "^3.0.0",
     "install": "^0.13.0",
     "npm": "^6.14.5",
     "rc-slider": "^9.2.4",
@@ -21,6 +22,7 @@
     "react-material-ui-form-validator": "^2.0.10",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
+    "react-sortable-hoc": "^1.11.0",
     "uuid": "^8.1.0"
   },
   "scripts": {
