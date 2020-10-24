@@ -1,3 +1,21 @@
+# Project Name
+A website which allows the users to:
+* view various existing color palettes and copy the color codes in HEX, RGB,
+RGBA formats
+* create their own palettes
+* play around with it to explore further colors
+
+# Technologies
+* ReactJS
+* JavaScript
+* CSS
+* HTML
+* Material-UI (React UI framework)
+
+# Status
+Project is: _finished_
+
+# Setup
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
